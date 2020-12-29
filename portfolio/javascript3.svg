@@ -1,0 +1,20 @@
+<svg version="1.1" viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+	<rect width="400" height="240" fill="#46b846"/>
+	<rect x="204.4" width="195.6" height="240" fill="#98f3fe"/>
+	<text x="53.58" y="220.4" fill="#453000" font-family="sans-serif" font-size="65.78px" letter-spacing="0px" stroke-width="3.759px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="53.58" y="220.4" fill="#453000" stroke-width="3.759px">Javascript</tspan></text>
+	<path d="m201.6 83.11l-23.9-41.3 24-6.39z" fill="#98f3fe" opacity=".953" stroke="#98f3fe" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.503"/>
+	<path d="m207.9 83.11l-.1-47.79 24.1 6.49z" fill="#46b846" opacity=".953" stroke="#46b846" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.503"/>
+	<path d="m213.3 86.31l23.9-41.4 17.5 17.6z" fill="#46b846" opacity=".953" stroke="#46b846" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.503"/>
+	<path d="m216.5 91.61l41.3-23.9 6.5 24.1z" fill="#46b846" opacity=".953" stroke="#46b846" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.503"/>
+	<path d="m216.5 98.01l47.8-.1-6.5 24.09z" fill="#46b846" opacity=".953" stroke="#46b846" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.503"/>
+	<path d="m213.4 103.3l41.4 23.9-17.5 17.6z" fill="#46b846" opacity=".953" stroke="#46b846" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.503"/>
+	<path d="m208.1 106.8l23.9 41.3-24 6.5z" fill="#46b846" opacity=".953" stroke="#46b846" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.503"/>
+	<path d="m201.8 107v47.8l-24.1-6.5z" fill="#98f3fe" opacity=".953" stroke="#98f3fe" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.503"/>
+	<path d="m196.2 103.9l-23.9 41.4-17.6-17.5z" fill="#98f3fe" opacity=".953" stroke="#98f3fe" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.503"/>
+	<path d="m192.7 98.31l-41.3 23.89-6.5-23.99z" fill="#98f3fe" opacity=".953" stroke="#98f3fe" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.503"/>
+	<path d="m192.6 91.81l-47.8.1 6.5-24.1z" fill="#98f3fe" opacity=".953" stroke="#98f3fe" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.503"/>
+	<path d="m195.8 86.21l-41.4-23.9 17.5-17.5z" fill="#98f3fe" opacity=".953" stroke="#98f3fe" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.503"/>
+	<path d="m265.1 129.4l-25.7 25.8-35 9.5-35.2-9.5-25.7-25.7-9.4-34.99 9.4-35 25.7-25.89 35-9.4 35.1 9.4 25.8 25.69 9.4 35z" fill="none" opacity=".953" stroke="#fec547" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".9529" stroke-width="7.038"/>
+	<path d="m204.1 20.72a3.519 3.519 0 0 0 -.8 .1l-35 9.4a3.519 3.519 0 0 0 -1.6 .9l-25.7 25.89a3.519 3.519 0 0 0 -.9 1.6l-9.4 35a3.519 3.519 0 0 0 0 1.8l9.4 34.99a3.519 3.519 0 0 0 .9 1.6l25.7 25.7a3.519 3.519 0 0 0 1.6 .9l35.2 9.5a3.519 3.519 0 0 0 .8 .1v-7.1l-33.3-9.1-24.3-24.3-9-33.19 9-33.2 24.3-24.5 33.2-8.99h.1v-7.1a3.519 3.519 0 0 0 -.2 0z" fill="#6beefe"/>
+</svg>
+ 
